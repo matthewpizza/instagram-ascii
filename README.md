@@ -1,6 +1,6 @@
 # Instagram image to ASCII
 
-The Instagram CDN has a cool convert to ascii feature. This is a simple way to get to it from an Instagram permalink or image URL.
+The Instagram CDN has a cool convert to ascii feature. (For example, [this image](https://www.instagram.com/p/BAX9VUgD2ts/) becomes [this](https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/12547552_157284714640510_743342067_n.jpg.html)!) This is a simple way to get to it from an Instagram permalink or image URL.
 
 To use make a bookmark out of the following:
 
