@@ -12,7 +12,7 @@
   if (isInstagramImage) {
     location = url;
   } else {
-    var img = document.querySelector('article .ResponsiveBlock img');
+    var img = document.querySelector('img[id^="pImage"]');
     location = img.src;
   }
 
