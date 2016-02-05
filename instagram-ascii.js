@@ -12,8 +12,8 @@
   if (isInstagramImage) {
     location = url;
   } else {
-    var img = document.querySelector('img[id^="pImage"]');
-    location = img.src;
+    var imgs = document.querySelectorAll('img[id^="pImage"]');
+    location = imgs[imgs.length - 1].src;
   }
 
   if (!location) {
